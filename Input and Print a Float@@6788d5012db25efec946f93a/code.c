@@ -7,5 +7,4 @@ int main(){
    printf("value enter is% f",f)
 
    return  0;
-
 }
