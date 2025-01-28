@@ -4,5 +4,4 @@ int main(){
    scanf("%f",&f);
    printf("value enter is% f",f);
 
-   return  0;
 }
